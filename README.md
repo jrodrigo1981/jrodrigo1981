@@ -28,3 +28,7 @@
   ![Snake animation](https://github.com/jrodrigo1981/jrodrigo1981/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+  <div>
+  <a href="http://www.contadordevisitas.net.br/detalhes/Sc" target="_blank"><img src="https://www.contadordevisitas.net.br/Sc/" alt="Contador de Visita" title="Contador de Visita"></a>
+  </div>
